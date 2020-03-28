@@ -1,4 +1,4 @@
-# {{Breaking Bad Quotes}}
+# Breaking Bad Quotes
 
 ## Run
 
